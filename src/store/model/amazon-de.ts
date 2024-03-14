@@ -41,6 +41,14 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B07PW9VBK5',
     },
     {
+      brand: 'fujifilm',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0CV52JHNR&Quantity.1=1',
+      model: 'vi',
+      series: 'x100',
+      url: 'https://www.amazon.de/dp/B0CV52JHNR',
+    },
+    {
       brand: 'asus',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08HN7VVLJ&Quantity.1=1',
