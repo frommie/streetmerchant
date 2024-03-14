@@ -409,6 +409,7 @@ const store = {
   country: envOrString(process.env.COUNTRY, 'usa'),
   maxPrice: {
     series: {
+      x100: -1,
       3050: envOrNumber(process.env.MAX_PRICE_SERIES_3050),
       3060: envOrNumber(process.env.MAX_PRICE_SERIES_3060),
       '3060ti': envOrNumber(process.env.MAX_PRICE_SERIES_3060TI),
@@ -456,6 +457,7 @@ const store = {
     };
   }),
   showOnlySeries: envOrArray(process.env.SHOW_ONLY_SERIES, [
+    'x100',
     '3060',
     '3060ti',
     '3070',
