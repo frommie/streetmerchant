@@ -42,6 +42,14 @@ export const AmazonIt: Store = {
     {
       brand: 'asus',
       cartUrl:
+        'https://www.amazon.it/gp/aws/cart/add.html?ASIN.1=B0CV52JHNR&Quantity.1=1',
+      model: 'strix',
+      series: '3080',
+      url: 'https://www.amazon.it/dp/B0CV52JHNR',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
         'https://www.amazon.it/gp/aws/cart/add.html?ASIN.1=B08L8JNTXQ&Quantity.1=1',
       model: 'strix',
       series: '3070',
