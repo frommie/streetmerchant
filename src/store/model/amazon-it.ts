@@ -234,10 +234,10 @@ export const AmazonIt: Store = {
     {
       brand: 'asus',
       cartUrl:
-        'https://www.amazon.it/gp/aws/cart/add.html?ASIN.1=B08HHDP9DW&Quantity.1=1',
+        'https://www.amazon.it/gp/aws/cart/add.html?ASIN.1=B0CV523K92&Quantity.1=1',
       model: 'tuf',
       series: '3080',
-      url: 'https://www.amazon.it/dp/B08HHDP9DW',
+      url: 'https://www.amazon.it/dp/B0CV523K92',
     },
     {
       brand: 'asus',
