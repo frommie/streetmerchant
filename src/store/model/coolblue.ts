@@ -39,7 +39,7 @@ export const Coolblue: Store = {
       brand: 'asus',
       model: 'tuf',
       series: '3080',
-      url: 'https://www.coolblue.nl/product/868726/',
+      url: 'https://www.coolblue.nl/product/945321/',
     },
     {
       brand: 'gigabyte',
@@ -69,7 +69,7 @@ export const Coolblue: Store = {
       brand: 'asus',
       model: 'strix',
       series: '3080',
-      url: 'https://www.coolblue.nl/product/868732/',
+      url: 'https://www.coolblue.nl/product/945320/',
     },
     {
       brand: 'msi',
