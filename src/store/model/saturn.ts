@@ -98,7 +98,7 @@ export const Saturn: Store = {
       brand: 'asus',
       model: 'strix',
       series: '3080',
-      url: 'https://www.saturn.de/de/product/-2681869.html',
+      url: 'https://www.saturn.de/de/product/-2922273.html',
     },
     {
       brand: 'asus',
@@ -110,7 +110,7 @@ export const Saturn: Store = {
       brand: 'asus',
       model: 'tuf',
       series: '3080',
-      url: 'https://www.saturn.de/de/product/-2681859.html',
+      url: 'https://www.saturn.de/de/product/-2922272.html',
     },
     {
       brand: 'asus',
